@@ -26,3 +26,4 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/joaovff/weather-app-kotlin.git
 ```
+2. Open the cloned folder with your Android Studio and run it using an android simulator
